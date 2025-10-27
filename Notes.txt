@@ -1,0 +1,6 @@
+ملاحظات
+-----------
+1- لم يتم استخدام Authentication
+2- لم يستخدم AutoMapper
+3- لم يستخدم FluentValidation
+4- لم يستخدم UnitOfWork
